@@ -8,5 +8,4 @@ werkzeug = "2.2.2"
 importlib-metadata = "6.0.0"
 importlib-resources = "5.10.0"
 
-[requires]
-python_full_version = "3.8.13"
+
